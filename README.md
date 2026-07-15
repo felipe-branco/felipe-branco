@@ -28,7 +28,7 @@ I like to automate things and allocate my most scarce resource on what matters. 
 ![ddd](https://img.shields.io/static/v1?logo=ddd&label=&message=Domain-DrivenDesign&color=36465D&logoColor=AAA&style=flat-square)
 ![eventmodeling](https://img.shields.io/static/v1?logo=em&label=&message=EventModeling&color=36465D&logoColor=AAA&style=flat-square)
 ![sytemdesign](https://img.shields.io/static/v1?logo=sd&label=&message=SystemDesign&color=36465D&logoColor=AAA&style=flat-square)
-![sytemthinking](https://img.shields.io/static/v1?logo=st&label=&message=SystemThinking&color=36465D&logoColor=AAA&style=flat-square)
+![sytemsthinking](https://img.shields.io/static/v1?logo=st&label=&message=SystemsThinking&color=36465D&logoColor=AAA&style=flat-square)
 
 ### Ping me:
 - [LinkedIn](https://www.linkedin.com/in/fbadiniz/)
