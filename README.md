@@ -2,7 +2,7 @@
 
 I'm a Senior Software Engineer by day 🌞 , a dad and eager reader by night 🌘.
 
-I like to automate things and allocate my most scarce resource on what matters. I test my code. I like full-stack and backend. I enjoy coding infrastructure.
+I like to automate things and allocate my most scarce resources on what matters. I test my code. I like full-stack and backend. I enjoy coding infrastructure.
 
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178c6)
 ![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&color=AE1401&logoColor=AE1401)
