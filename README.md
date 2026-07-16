@@ -20,6 +20,7 @@ I like to automate things and allocate my most scarce resources on what matters.
 ![Cursor](https://img.shields.io/badge/Tool-Cursor-informational?style=flat&logo=cursor&color=000000&logoColor=white)
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=257bd6&logoColor=257bd6)
 ![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032&logoColor=F05032)
+![CQRS](https://img.shields.io/badge/Tool-CQRS-informational?style=flat&logo=cqrs&color=brown&logoColor=brown)
 
 ![DDD](https://img.shields.io/badge/System-DomainDrivenDesign-informational?style=flat&logo=ddd&color=2563EB&logoColor=2563EB)
 ![EM](https://img.shields.io/badge/System-EventModeling-informational?style=flat&logo=em&color=238b45&logoColor=238b45)
